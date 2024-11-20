@@ -1,5 +1,8 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman  # Choose the theme you prefer
 
-
-remote_theme:theme: jekyll-theme-cayman
-
+# Plugins section (using supported plugins for GitHub Pages)
+plugins:
+  - jekyll-seo-tag       # For SEO-friendly meta tags
+  - jekyll-feed          # For RSS feed generation
+  - jekyll-sitemap       # For generating sitemap
+  - jekyll-paginate    
