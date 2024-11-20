@@ -2,4 +2,4 @@
 <br>
 Rashmi B
 CSE
-MARIT
+MSRIT
