@@ -1,2 +1,5 @@
-theme: jekyll-theme-minimal
-remote_theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+
+remote_theme:theme: jekyll-theme-cayman
+
