@@ -1,8 +1,4 @@
-theme: jekyll-theme-cayman  # Choose the theme you prefer
-
-# Plugins section (using supported plugins for GitHub Pages)
+remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
-  - jekyll-seo-tag       # For SEO-friendly meta tags
-  - jekyll-feed          # For RSS feed generation
-  - jekyll-sitemap       # For generating sitemap
-  - jekyll-paginate    
+- jekyll-remote-theme 
+
